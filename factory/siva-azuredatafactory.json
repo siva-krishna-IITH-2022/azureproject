@@ -1,0 +1,9 @@
+{
+	"name": "siva-azuredatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0ec10f71-aa4b-4e2e-b40a-6044289c8f8d",
+		"tenantId": "91839db2-c075-48fb-a5b0-2baf2dea5a60"
+	}
+}
